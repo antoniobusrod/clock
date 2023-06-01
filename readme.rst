@@ -10,7 +10,7 @@ For now, it only looks good when the window size is small.
 
 Demo
 ----
-- http://clock.busrod.net
+- http://antonio.busrod.net/clock/
 
 References
 ----------
